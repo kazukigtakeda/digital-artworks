@@ -1,8 +1,8 @@
 /* container */
 .wrapper{
     width:100%;
-    background-color:#fafafa;
 }
+
 .wrapper .container{
     max-width:1000px;
     margin:0px auto;
