@@ -89,6 +89,10 @@ ul::after {
 	cursor: pointer;
 }
 
+.videos{
+	text-align: center;
+}
+
 /*ボタン１*/
 .spot {
 	position: absolute;
