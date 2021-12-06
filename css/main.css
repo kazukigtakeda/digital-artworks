@@ -27,6 +27,7 @@ body {
 	background-attachment: fixed;
 
 	color: aliceblue;
+	width: 100%;
 }
 
 .container {
@@ -194,7 +195,7 @@ a.btn-flat:before {
 	transition: all .5s ease-in-out;
 	-webkit-transform: rotate(45deg) translateX(0) translateY(0);
 	transform: rotate(45deg) translateX(0) translateY(0);
-
+	color: black;
 	background: #00f7ff;
 }
 
@@ -211,7 +212,7 @@ a.btn-flat:after {
 	transition: all .5s ease-in-out;
 	-webkit-transform: rotate(45deg) translateX(0) translateY(0);
 	transform: rotate(45deg) translateX(0) translateY(0);
-
+	color: black;
 	background: #00f7ff;
 }
 
