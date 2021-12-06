@@ -12,12 +12,14 @@ $(function(){
             gradients: true,
 
             // 自動中央揃え
-            autoCenter: true,
+            autoCenter: false,
 
             // 右開きか左開きか(rtl:右開き、ltr:左開き)
             direction: 'ltr',
 
-            zoom: true
+            zoom: true,
+
+            hard: true
         }
     );
 
