@@ -12,7 +12,7 @@ $(function(){
             gradients: true,
 
             // 自動中央揃え
-            autoCenter: false,
+            autoCenter: true,
 
             // 右開きか左開きか(rtl:右開き、ltr:左開き)
             direction: 'ltr',
