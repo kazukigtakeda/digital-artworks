@@ -16,7 +16,7 @@ body {
   font-weight: 300;
   font-size: 20px;
   line-height: 1.6;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 @media screen and (max-width: 992px) {
   body {
@@ -298,7 +298,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 .work-item a p {
   font-size: 14px;
-  color: #cccccc;
+  color: rgba(0, 0, 0, 0.7);
   margin-bottom: 0;
 }
 .work-item a:hover, .work-item a:active, .work-item a:focus {
